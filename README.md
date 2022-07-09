@@ -1,7 +1,7 @@
 <h1 align="center">Ciao sono Valentina</h1>
 <h3 align="center">Studentessa academy full stack developer</h3>
 
-- 🌱Attualmente sto seguendo l'academy per diventare sviluppatrice full stack **c,java,sql,git**
+- 🌱Attualmente sto seguendo l'academy per diventare sviluppatrice full stack
 
 - 📫 Contatti **valentina.farci85@gmail.com**
 
